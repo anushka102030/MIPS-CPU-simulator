@@ -12,3 +12,5 @@ USAGE:
 `make run_tests` to build the simulator and then run the testbench on the simulator
 
 `make clean` to remove the testbench, simulator, and parser executables.
+
+Created by [Anushka Kulkarni](https://github.com/anushka102030) and [Hussain Kurabadwala](https://github.com/hussain2603)
